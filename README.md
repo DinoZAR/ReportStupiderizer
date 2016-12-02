@@ -7,8 +7,10 @@ This was before virtualenv was remotely in my mind, so the setup is a little tri
 1. Install wxPython. pip doesn't really like this dependency.
 2. Install nltk
 3. From Python shell, run this to install the data needed by nltk:
-    
-    >>> import nltk
-    >>> nltk.download()
-    Downloader> d averaged_perceptron_tagger
-    Downloader> d punkt
+
+```
+>>> import nltk
+>>> nltk.download()
+Downloader> d averaged_perceptron_tagger
+Downloader> d punkt
+```
