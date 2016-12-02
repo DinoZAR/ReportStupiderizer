@@ -14,3 +14,5 @@ This was before virtualenv was remotely in my mind, so the setup is a little tri
 Downloader> d averaged_perceptron_tagger
 Downloader> d punkt
 ```
+
+4. To run it, run main.py
