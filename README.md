@@ -15,4 +15,4 @@ Downloader> d averaged_perceptron_tagger
 Downloader> d punkt
 ```
 
-4. To run it, run main.py
+4. To run it, run `python main.py`
